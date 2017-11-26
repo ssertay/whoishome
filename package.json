@@ -1,0 +1,9 @@
+{
+  "name": "whoishome",
+  "author": "Sertay Sener",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "mongoose": "^4.13.5",
+    "request": "^2.83.0"
+  }
+}
